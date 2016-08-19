@@ -1,0 +1,19 @@
+{
+  "name": "react-native-volume",
+  "version": "0.0.1",
+  "description": "Volume controls for React-Native",
+  "main": "volume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FakeYou/react-native-volume.git"
+  },
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FakeYou/react-native-volume/issues"
+  },
+  "homepage": "https://github.com/FakeYou/react-native-volume#readme"
+}
