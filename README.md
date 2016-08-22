@@ -19,6 +19,7 @@ dependencies {
 ```
 
 **MainActivity.java**
+
 On top, where imports are:
 ```java
 import com.tapme.RNVolume.VolumePackage;
@@ -48,7 +49,7 @@ Under `.addPackage(new MainReactPackage())`:
 
 ## Usage
 
-```
+```javascript
 import { getVolume, setVolume, getMaxVolume, onVolumeChange } from 'react-native-volume';
 
 // Get the maximum value for the media stream
